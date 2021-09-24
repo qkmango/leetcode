@@ -1,12 +1,12 @@
 package array;
 
 /**
- * @className: Array01
- * @Description: 删除排序数组中的重复项
- * @link: https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/x2gy9m/
- * @author: qkmango
+ * @className Array01
+ * @Description 删除排序数组中的重复项
+ * {@link} https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/x2gy9m/
+ * @author qkmango
  * @date: 2021-09-24 17:47
- * @version: 1.0
+ * @version 1.0
  */
 public class Array01 {
     public static void main(String[] args) {
